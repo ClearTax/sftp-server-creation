@@ -9,4 +9,13 @@ In order to create a new SFTP Server hosted under the existing AWS Transfer Inst
 
 These 2 steps have now been automated via the 2 scripts in this repository.
 
-> **NOTE**: Unfortunately this script will only work in the STAGING AWS account as we do not have the required permissions in our PRODUCTION AWS account.
+**Run each step in this way:**
+
+`./s3_creation.sh`
+
+or 
+
+`./secret_creation.sh`
+
+
+> **NOTE**: Currently this only works in STAGING AWS as we don't have similar permissions for PROD AWS.

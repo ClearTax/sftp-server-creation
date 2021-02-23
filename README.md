@@ -1,4 +1,5 @@
 #SFTP Server Creation
+
 These scripts are aimed at automating the process of creating an SFTP server hosted via AWS Transfer Service.
 
 In order to create a new SFTP Server hosted under the existing AWS Transfer Instance, we need to perform the following steps:

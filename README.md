@@ -1,4 +1,4 @@
-**SFTP Server Creation**
+# SFTP Server Creation
 
 These scripts are aimed at automating the process of creating an SFTP server hosted via AWS Transfer Service.
 

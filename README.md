@@ -9,7 +9,7 @@ In order to create a new SFTP Server hosted under the existing AWS Transfer Inst
 
 These 2 steps have now been automated via the 2 scripts in this repository.
 
-**Run each step in this way:**
+**Run each step in this way (*after updating the script with the specific client parameters*):**
 
 `./s3_creation.sh`
 

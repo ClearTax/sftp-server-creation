@@ -1,5 +1,5 @@
 #USER INPUT - BEGIN#
-CLIENT_NAME="datamaticstestagain"
+CLIENT_NAME="randomtestclient"
 #environment will either be staging (aws_ct_staging) or prod (aws_ct_prod)
 #environment name is based on the AWS CLI user profile you've created on your system
 CURRENT_ENVIRONMENT="aws_ct_staging"
